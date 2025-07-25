@@ -26,3 +26,9 @@ An interactive Streamlit web application that leverages **Gemini AI** to analyze
 
 ---
 ![alt text](image.png)
+
+## Screenshots
+![alt text](image-1.png)
+![alt text](image-2.png)
+![alt text](image-3.png)
+![alt text](image-4.png)
